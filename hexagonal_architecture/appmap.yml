@@ -1,0 +1,3 @@
+name: hexagonal_architecture
+packages:
+- path: com.nomadhomes.hexagonal_architecture
